@@ -8,5 +8,4 @@ for numero in range(1, 1001):
     elif numero % 3 == 0:
         print("FIZZ")
     else:
-        print(f"{numero}")
-    
+        print(f"{numero}")    
